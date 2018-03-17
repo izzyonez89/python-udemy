@@ -27,7 +27,3 @@ no_seats_per_row=10
 no_rows*no_seats_per_row
 #This will cause an error as we have not assigned a value
 m
-
-13=1242 +324251
-
-I want your data back
